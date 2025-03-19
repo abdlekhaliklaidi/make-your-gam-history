@@ -29,7 +29,7 @@ export const DivstartGame = `
 export const Win = `
    <div>
    <h1>You Win The Game<h1/>
-   <p>Well done, the kingdom has returned to peace, and the people of Valoran live in peace and security after you got rid of the dark wizard. You are now a hero in the kingdom, not only because you defeated a "wizard", but because you proved that courage and strong will can overcome any evil force, no matter how great.</p>
+   <p>Well done,. the kingdom has returned to peace, and the people of Valoran live in peace and security after you got rid of the dark wizard. You are now a hero in the kingdom, not only because you defeated a "wizard", but because you proved that courage and strong will can overcome any evil force, no matter how great.</p>
    </div>
       <div class="button-container">
         <button id="Restart">Restart</button>
